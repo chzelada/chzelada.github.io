@@ -3,9 +3,6 @@ layout: post
 author: Carlos Zelada
 ---
 
-
-# Introduction
-
 Understanding what a statistician does sometimes is hard to explain; this makes it hard for an organization to be data-driven.  So to understand some key concepts related to this, we could start by using the analogy of fishing.
 
 ## Point estimates
