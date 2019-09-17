@@ -4,6 +4,5 @@ description: Testing Jekyll.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-markdown: kramdown
 kramdown:
-    math_engine: katex
+    math_engine: mathjax
