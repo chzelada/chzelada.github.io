@@ -56,10 +56,10 @@ This is a great idea but updating the values after new information or more data 
 
 ![Bayes Theorem](https://latex.codecogs.com/gif.latex?P%28H%7CD%29%3D%5Cfrac%7BP%28D%7CH%29P%28H%29%7D%7BP%28D%29%7D)
 
-- The prior  **P(H)** is the probability that H is true before data is considered.
-- The posterior **P(H|D)** is the probability that H is true after data is considered.
-- The likelihood **P(D|H)** is the evidence about H provided by the data D.
-- **P(D)** is the total probability of the data taking into account all possible hypotheses.
+- The prior  $$P(H)$$ is the probability that H is true before data is considered.
+- The posterior $$P(H|D)$$ is the probability that H is true after data is considered.
+- The likelihood $$P(D|H)$$ is the evidence about H provided by the data D.
+- $$P(D)$$ is the total probability of the data taking into account all possible hypotheses.
 
 
 
