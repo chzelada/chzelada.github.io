@@ -68,7 +68,15 @@ As an example we coul thing that we have a landing page where we show 2 ads. Bot
 
 | Ad | impressions | click |
 |---|-----|-----|
-|1 | 10 | 1 |
-|2 | 10 | 2 |
+|1 | 10 | 5 |
+|2 | 10 | 6 |
+
+
+For the first add we have a ctr of 0.5
+
+
+> How sure you are that, if you get 1000 impressions to this ad. The conversion rate will continue to be 0.5
+
+Based on experience alone we know that calculating conversion rates with only 10 impressions has a lot of noise.
 
 
