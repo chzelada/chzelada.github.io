@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Multi Arm Bandit
 ---
 # About page
 
