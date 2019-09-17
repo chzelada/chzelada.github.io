@@ -5,9 +5,12 @@ title: Multi Arm Bandit
 # Multi Arm Bandit
 
 This page tells you a little bit about me.
-$$\LaTeX code$$   (for display)
-\\[\LaTeX code\\] (also for display)
-\\(\LaTeX code\\) (for inline)
+
+$$\LaTeX x^2$$   (for display)
+
+\\[\LaTeX x^2\\] (also for display)
+
+\\(\LaTeX x^2\\) (for inline)
 
 ```R
 bayesian_bandit <- function(clicks=1,
