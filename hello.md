@@ -6,7 +6,9 @@ title: Multi Arm Bandit
 
 This page tells you a little bit about me.
 
-$$x^2$$   (for display)
+{% raw %}
+  $$a^2 + b^2 = c^2$$ 
+{% endraw %}
 
 
 
