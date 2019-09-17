@@ -50,6 +50,13 @@ This is the idea of confidence intervals, instead of trying to give a point esti
 ![proportion confidence interval](https://latex.codecogs.com/gif.latex?%5Crho%20%5Cin%20%5Cleft%28%5Chat%20%5Crho%20-%20z_%7B%5Calpha/2%7D%5Csqrt%7B%5Cfrac%7B%5Chat%20%5Crho%20%281%20-%20%5Chat%20%5Crho%20%29%7D%7Bn%7D%7D%2C%5Chat%20%5Crho%20&plus;%20z_%7B%5Calpha/2%7D%5Csqrt%7B%5Cfrac%7B%5Chat%20%5Crho%20%281%20-%20%5Chat%20%5Crho%20%29%7D%7Bn%7D%7D%20%5Cright%20%29)
 
 
+This is a great idea but updating the values after new information or more data is gatheres is not part of this. Thats because this equations and the theory behind it is old and comes from an age that data gathering was slow and in small numbers. Times have change and now data is generated at blazing speeds so updating our estimates is of paramount importance. Thats where bayes comes in.
+
+## Bayes Theorem
+
+[!Bayes Theorem](https://latex.codecogs.com/gif.latex?P%28H%7CD%29%3D%5Cfrac%7BP%28D%7CH%29P%28H%29%7D%7BP%28D%29%7D)
+
+
 
 
 
