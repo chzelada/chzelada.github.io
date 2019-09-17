@@ -5,8 +5,9 @@ title: Multi Arm Bandit
 # Multi Arm Bandit
 
 This page tells you a little bit about me.
-
-$\int_0^1 x^2 dx$
+$$\LaTeX code$$   (for display)
+\\[\LaTeX code\\] (also for display)
+\\(\LaTeX code\\) (for inline)
 
 ```R
 bayesian_bandit <- function(clicks=1,
