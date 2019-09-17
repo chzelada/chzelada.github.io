@@ -27,7 +27,11 @@ In this case we sample and as we sample we get a better estimate of the populati
 ```R
 ctr<-sum(clicks)/impressions
 ```
-For proportion **ctr** *(Click-through rate)* is use as an example since it a key metric in healthcare.com. If this is an ad we are interested in it because de revenue will be calculated as **revenue = ctr times cpc**, *(cpc, cost per click)*. 
+For proportion **ctr** *(Click-through rate)* is use as an example since it a key metric in healthcare.com. If this is an ad we are interested in it because de revenue will be calculated as 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\text{expected&space;revenue}=\text{ctr}&space;\times&space;\text{cpc}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\text{expected&space;revenue}=\text{ctr}&space;\times&space;\text{cpc}" title="\text{expected revenue}=\text{ctr} \times \text{cpc}" /></a>
+
+where cpc is the cost per click.
 
 
 
