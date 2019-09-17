@@ -6,6 +6,8 @@ title: Multi Arm Bandit
 
 This page tells you a little bit about me.
 
+$\int_0^1 x^2 dx$
+
 ```R
 bayesian_bandit <- function(clicks=1,
                            impressions=1,
