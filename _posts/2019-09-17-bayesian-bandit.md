@@ -54,7 +54,7 @@ This is a great idea but updating the values after new information or more data 
 
 ## Bayes Theorem
 
-[!Bayes Theorem](https://latex.codecogs.com/gif.latex?P%28H%7CD%29%3D%5Cfrac%7BP%28D%7CH%29P%28H%29%7D%7BP%28D%29%7D)
+![Bayes Theorem](https://latex.codecogs.com/gif.latex?P%28H%7CD%29%3D%5Cfrac%7BP%28D%7CH%29P%28H%29%7D%7BP%28D%29%7D)
 
 
 
