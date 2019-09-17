@@ -24,5 +24,5 @@ In this case we sample and as we sample we get a better estimate of the populati
 ```R
 ctr<-sum(clicks)/impressions
 ```
-For proportion **ctr** *(Click-through rate)* is use as an example since it a key metric in healthcare.com. If this is an ad we are interested in it because de revenue will be calculated as **revenue = ctr times cpc ** (cpc, cost per click). 
+For proportion **ctr** *(Click-through rate)* is use as an example since it a key metric in healthcare.com. If this is an ad we are interested in it because de revenue will be calculated as **revenue = ctr times cpc**, *(cpc, cost per click)*. 
 For new adds this metric is unknow and we get a better idea as we get for impressions of the ad.
