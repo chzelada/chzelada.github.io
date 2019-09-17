@@ -41,3 +41,16 @@ For new ads this metric is unknow and we get a better idea as we get for impress
 ![net fishing](https://media.nationalgeographic.org/assets/photos/000/257/25789.jpg)
 So now after spending a lot of time walking around the shore you get a better idea, to use a net insted of a rod. With a net you should increase your chance to get the fish. 
 
+This is the idea of confidence intervals, instead of trying to give a point estimation we end up giving a interval and attach a probability of caching the populatin parameter inside this interval.
+
+### Mean confidence interval
+![mean confidence interval](https://latex.codecogs.com/gif.latex?%5Cmu%20%5Cin%20%28%5Cbar%20x%20-Z_%7B%5Calpha/2%7D%5Cfrac%7B%5Csigma%7D%7B%5Csqrt%20n%7D%2C%5Cbar%20x%20&plus;%20Z_%7B%5Calpha/2%7D%5Cfrac%7B%5Csigma%7D%7B%5Csqrt%20n%7D%29)
+
+### Proportion confidence interval
+![proportion confidence interval](https://latex.codecogs.com/gif.latex?%5Crho%20%5Cin%20%5Cleft%28%5Chat%20%5Crho%20-%20z_%7B%5Calpha/2%7D%5Csqrt%7B%5Cfrac%7B%5Chat%20%5Crho%20%281%20-%20%5Chat%20%5Crho%20%29%7D%7Bn%7D%7D%2C%5Chat%20%5Crho%20&plus;%20z_%7B%5Calpha/2%7D%5Csqrt%7B%5Cfrac%7B%5Chat%20%5Crho%20%281%20-%20%5Chat%20%5Crho%20%29%7D%7Bn%7D%7D%20%5Cright%20%29)
+
+
+
+
+
+
