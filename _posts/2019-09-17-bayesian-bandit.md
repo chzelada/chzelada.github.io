@@ -84,7 +84,10 @@ But how to manage this?
 
 This brings us to our main topic and what we need to cover to propose a solution.
 
+- Bayesian statistics
+- Multi-arm bandits 
 - Exploration and exploitation trade-off
-- Multi-arm bandits
+
+The proposed solution will be covered in a next blog post.
 
 
