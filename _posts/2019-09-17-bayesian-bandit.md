@@ -35,6 +35,9 @@ For proportion **ctr** *(Click-through rate)* is use as an example since it a ke
 
 where cpc is the cost per click.
 
+For new ads this metric is unknow and we get a better idea as we get for impressions of the ad.
 
+## Confidence intervals
+![net fishing](https://media.nationalgeographic.org/assets/photos/000/257/25789.jpg)
+So now after spending a lot of time walking around the shore you get a better idea, to use a net insted of a rod. With a net you should increase your chance to get the fish. 
 
-For new adds this metric is unknow and we get a better idea as we get for impressions of the ad.
