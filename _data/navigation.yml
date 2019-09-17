@@ -1,6 +1,6 @@
 - name: Home
-  link: /hello.md
+  link: /
 - name: About
-  link: /README.md
+  link: /hello.md
 - name: Blog
   link: /blog.html
