@@ -14,12 +14,12 @@ So the first option we have is to use a fishing rod. If we are on a big lake, it
 
 This is precisely the idea behind the mean or the proportion of a population. We are trying to give a good estimate of each of the metrics.
 
-###Mean
+### Mean
 ```R
 mean <- sum(sample) / length(sample)
 ```
 
-###Proportion
+### Proportion
 ```R
 ctr<-sum(clicks)/impressions
 ```
