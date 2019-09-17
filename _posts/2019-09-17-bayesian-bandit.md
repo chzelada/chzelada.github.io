@@ -62,6 +62,9 @@ This is a great idea but updating the values after new information or more data 
 - $$P(D)$$ is the total probability of the data taking into account all possible hypotheses.
 
 
+$$\int e^x dx$$
+
+
 
 
 
