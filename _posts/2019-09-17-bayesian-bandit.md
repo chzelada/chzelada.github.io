@@ -61,9 +61,9 @@ This is a great idea but updating the values after new information or more data 
 - The likelihood $$P(D \mid H)$$ is the evidence about H provided by the data D.
 - $$P(D)$$ is the total probability of the data taking into account all possible hypotheses.
 
-So the probability that we are interested in is given de data that we have generated so far $(D)$ what is the probability of the hypothesis $(H)$. 
+So the probability that we are interested in is given de data that we have generated so far $$(D)$$ what is the probability of the hypothesis $$(H)$$. 
 
-As an example we coul thing that we have a landing page where we show 2 ads. Both ads are new so we need to get an idea of it's true conversion rate. So far we have this information
+As an example, we could think that we have a landing page where we show two ads. Both ads are new, so we need to get an idea of its true conversion rate. So far we have this information
 
 
 | Ad | impressions | click |
@@ -72,11 +72,9 @@ As an example we coul thing that we have a landing page where we show 2 ads. Bot
 |2 | 10 | 6 |
 
 
-For the first add we have a ctr of 0.5
+For the first ad we have a ctr of 0.5
 
 
-> How sure you are that, if you get 1000 impressions to this ad. The conversion rate will continue to be 0.5
+> How sure you are that if you get 1000 impressions to this ad. The conversion rate will continue to be 0.5
 
-Based on experience alone we know that calculating conversion rates with only 10 impressions has a lot of noise.
-
-
+Based on experience alone, we know that calculating conversion rates with only ten impressions have a lot of noise.
