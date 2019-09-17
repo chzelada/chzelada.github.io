@@ -2,11 +2,15 @@
 layout: post
 author: Carlos Zelada
 ---
-A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.
 
-In some countries, bananas used for cooking may be called "plantains",
-distinguishing them from dessert bananas. The fruit is variable in size, color,
-and firmness, but is usually elongated and curved, with soft flesh rich in
-starch covered with a rind, which may be green, yellow, red, purple, or brown
-when ripe.
+
+# Introduction
+
+Understanding what a statistician does sometimes is hard to explain; this makes it hard for an organization to be data-driven.  So to understand some key concepts related to this, we could start by using the analogy of fishing.
+
+## Point estimates
+Let's start by imagining we are on the shore of a lake, and there's only one fish. 
+<<img1>>
+So the first option we have is to use a fishing rod. If we are on a big lake, it will take a lot of time, and we will have to move around the shore many times.
+
+This is precisely the idea behind the mean or the proportion of a population. We are trying to give a good estimate of each of the metrics.
